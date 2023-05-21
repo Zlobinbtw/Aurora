@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "GWGRP";
+var l_serverName = "AURORA";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
@@ -105,10 +105,13 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Welcome to GWGRP",
-"Have Fun!",
-"Thanks for Joining GWGRP, Enjoy your stay",
-"to join the pd, you need to become cadet first and wait for a trainer to come"
+"Введите // перед вашим сообщением, чтобы написать в общий чат (ООС)",
+"Введите .// или [[ перед вашим сообщением, чтобы писать в локальный чат (LOOC)",
+"Зажмите F1 чтобы получить краткую информацию о своем персонаже",
+"Вы можете лечить людей медикаментами из инвентаря, использую необходимую клавишу",
+"Герои не живут долго",
+"В этой жизни всё вовращается бумерангом",
+"Не стоит бесцельно бродить и искать RP. Создавайте RP сами, а Администрация - поможет вам!"
 ];
 
 /*Random message order?*/
